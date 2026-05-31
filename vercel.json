@@ -1,0 +1,9 @@
+  {
+    "redirects": [
+      {
+        "source": "/(.*)",
+        "destination": "https://lifeorder.vercel.app/$1",
+        "permanent": false
+      }
+    ]
+  }
